@@ -1,0 +1,35 @@
+*{
+    font-family: "Protest Riot", sans-serif;;
+  }
+  
+  .decorative-div {
+    padding: 30px;
+    text-align: center;
+    padding: 250px 100px;
+  }
+  
+  .decorative-div h2 {
+    color: #007bff;
+    font-size: 36px;
+    font-size: 90px;
+    margin-bottom: 60px;
+  }
+  
+  .decorative-div p {
+    font-size: 30px;
+  }
+  
+  @media (max-width: 578px) {
+    .decorative-div h2 {
+        font-size: 50px;
+    }
+  
+    .decorative-div p {
+        font-size: 25px;
+    }
+  
+    .decorative-div {
+        padding: 150px 60px
+    }
+  }
+  

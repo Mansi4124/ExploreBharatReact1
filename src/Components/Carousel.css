@@ -1,0 +1,30 @@
+
+#places_carousel {
+    margin: auto;
+    max-width: 850px;
+    position: absolute;
+    margin: 12em 20em 0em 20em;
+  }
+  
+  #places_carousel_back img {
+    filter: blur(7px);
+  }
+  
+  #places_carousel_back {
+    margin: auto;
+    position: absolute;
+  }
+  
+  .carousel-caption h5 {
+    color: white !important;
+    border-radius: 50px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .carousel-caption p {
+    color: white !important;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+  }
